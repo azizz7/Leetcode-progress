@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/azizz7/Leetcode-progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/azizz7/Leetcode-progress/tree/master/0525-contiguous-array) |
+| [0643-maximum-average-subarray-i](https://github.com/azizz7/Leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/azizz7/Leetcode-progress/tree/master/0523-continuous-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/azizz7/Leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
