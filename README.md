@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/azizz7/Leetcode-progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/azizz7/Leetcode-progress/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/azizz7/Leetcode-progress/tree/master/0643-maximum-average-subarray-i) |
+| [0954-maximum-sum-circular-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/azizz7/Leetcode-progress/tree/master/1046-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/azizz7/Leetcode-progress/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -68,8 +69,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
