@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/azizz7/Leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/azizz7/Leetcode-progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/azizz7/Leetcode-progress/tree/master/0525-contiguous-array) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/azizz7/Leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/azizz7/Leetcode-progress/tree/master/1046-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
