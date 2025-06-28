@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/azizz7/Leetcode-progress/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/azizz7/Leetcode-progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/azizz7/Leetcode-progress/tree/master/0525-contiguous-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0152-maximum-product-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/azizz7/Leetcode-progress/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
